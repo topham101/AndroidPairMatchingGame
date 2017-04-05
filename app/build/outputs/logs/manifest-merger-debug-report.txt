@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml
+		INJECTED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml
+		INJECTED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml
+		INJECTED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:8:5-24:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Matt\.android\build-cache\47b2d75b8060b50044129a6026834d421b16bf22\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Matt\.android\build-cache\20fde4e9f5831533bd4c41d83f24c1a4beb7ca7f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Matt\.android\build-cache\67023fd37bcc1fe8700647fc4424f82f37c0239b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Matt\.android\build-cache\664dbf5b8ce46490de1dbc44a23e125596724aa6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Matt\.android\build-cache\9796cd97567942c8ea17b494e4e55e2f47167eb0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Matt\.android\build-cache\7eac0254eb024bfacb976aa103d7653f13d86f58\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Matt\.android\build-cache\3b4254ce351c13815351a2f8f6595eef5bc5d5bc\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Matt\.android\build-cache\3f3cff1c2f77944d95cb4bf15b9689aec07c0713\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Matt\.android\build-cache\2e870aeefbb80eae84776ca19403470d764ecefd\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:12:9-35
+	android:allowBackup
+		ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:13:9-40
+activity#mobile.labs.acw.MainActivity
+ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:18:27-74
+activity#mobile.labs.acw.SelectPuzzleActivity
+ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:21:9-58
+	android:name
+		ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:21:19-55
+activity#mobile.labs.acw.DownloadPuzzleActivity
+ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:22:9-60
+	android:name
+		ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:22:19-57
+activity#mobile.labs.acw.PlayPuzzleActivity
+ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:23:9-56
+	android:name
+		ADDED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml:23:19-53
+uses-sdk
+INJECTED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Matt\.android\build-cache\47b2d75b8060b50044129a6026834d421b16bf22\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Matt\.android\build-cache\20fde4e9f5831533bd4c41d83f24c1a4beb7ca7f\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Matt\.android\build-cache\67023fd37bcc1fe8700647fc4424f82f37c0239b\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Matt\.android\build-cache\664dbf5b8ce46490de1dbc44a23e125596724aa6\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Matt\.android\build-cache\9796cd97567942c8ea17b494e4e55e2f47167eb0\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Matt\.android\build-cache\7eac0254eb024bfacb976aa103d7653f13d86f58\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Matt\.android\build-cache\3b4254ce351c13815351a2f8f6595eef5bc5d5bc\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Matt\.android\build-cache\3f3cff1c2f77944d95cb4bf15b9689aec07c0713\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Matt\.android\build-cache\2e870aeefbb80eae84776ca19403470d764ecefd\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Matt\.android\build-cache\47b2d75b8060b50044129a6026834d421b16bf22\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml
+		INJECTED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml
+		INJECTED from D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\src\main\AndroidManifest.xml

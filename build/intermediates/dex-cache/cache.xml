@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="550b0a7f131c89ad2c4e73213a0119b0947ddbc1">
+        <dex dex="D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d397e06af3f2f71ff074d46a25ac4a7aa86c0cff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Matt\.android\build-cache\3f3cff1c2f77944d95cb4bf15b9689aec07c0713\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11b07ff184b98d1e4c481c10e373fb282cd7a552\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Matt\.android\build-cache\9796cd97567942c8ea17b494e4e55e2f47167eb0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_854e28a4126b7ab8c0d08894750f345ff48e7bb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Matt\.android\build-cache\67023fd37bcc1fe8700647fc4424f82f37c0239b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_471182ec87d2aeaa62b2ccc8b5846fe4eba1cf0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Matt\.android\build-cache\664dbf5b8ce46490de1dbc44a23e125596724aa6\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c7b348a84aeb4721e988a34945bebf894c9f4d88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Matt\.android\build-cache\7eac0254eb024bfacb976aa103d7653f13d86f58\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47e799102cda01aa072fa6c6c2463d8e848253ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Matt\.android\build-cache\3b4254ce351c13815351a2f8f6595eef5bc5d5bc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2de1476ae31c4a8e135baaad4d1def72bf848984\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_efe8dc4b3e73ba546819a527d6119480ea6d4fdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Matt\.android\build-cache\2e870aeefbb80eae84776ca19403470d764ecefd\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c7dcfdb677caa36e13a2766b1303e5f19f487f6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Matt\.android\build-cache\9796cd97567942c8ea17b494e4e55e2f47167eb0\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e3da40aec94f0fbbebf8b6115b4d8c2de4146cc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Matt\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_0413f13467a05d5a02b13cfdfdc11b8e79502f7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Matt\.android\build-cache\47b2d75b8060b50044129a6026834d421b16bf22\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33822be3f2a2432433271006b90f70505b874303\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Matt\.android\build-cache\2e870aeefbb80eae84776ca19403470d764ecefd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f5218eb0b67970c07d0f813a8bea4d5b3245ca3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Matt\.android\build-cache\20fde4e9f5831533bd4c41d83f24c1a4beb7ca7f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb8caef7fc727194dd5bdbdbbdeb37a4f343de0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Matt\.android\build-cache\7eac0254eb024bfacb976aa103d7653f13d86f58\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2af904729beabf67ee1da0fb40d99880e45b2c48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Matt\.android\build-cache\67023fd37bcc1fe8700647fc4424f82f37c0239b\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1b0c6daa839646f96c09193c20a8477e407fd1d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Matt\.android\build-cache\664dbf5b8ce46490de1dbc44a23e125596724aa6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\University Coursework\3rd Year\Mobile Devices - 08027\SVN Files\ACW\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_35b09f03826d8c35881f749fadb17c00c0ed8202\classes.dex" />
+    </item>
+
+</items>

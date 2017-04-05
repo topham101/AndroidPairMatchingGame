@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="8dp"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="mobile.labs.acw.SelectPuzzleActivity">
+
+    <TextView
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/FilterTitle"
+        android:id="@+id/FilterTitle" />
+
+    <Spinner
+        android:id="@+id/selectPuzzleSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/FilterTitle"
+        android:entries="@array/PuzzleFilters"
+        android:focusable="false"
+        android:spinnerMode="dialog" />
+
+    <Button
+        android:id="@+id/downloadPuzzlesButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/GoToDownloadPageButton"
+        android:onClick="onClickDownloadPuzzle"
+        android:layout_below="@+id/selectPuzzleSpinner"/>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout2"
+        android:layout_below="@+id/downloadPuzzlesButton" >
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/PuzzleListView"
+            android:layout_weight="0.5"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meme Monsieur\'s Puzzle Partie</string>
+    <string name="DownloadPageDownloaded">Cliquez sur un puzzle pour télécharger:</string>
+    <string name="DownloadPageDownloading">Téléchargement. . .</string>
+    <string name="DownloadPageEmpty">Pas de puzzles trouvés.</string>
+    <string name="DownloadPageNoConnection">Échec de la connexion Internet</string>
+    <string name="FilterTitle">Filtrer Puzzles:</string>
+    <string name="GoToDownloadPageButton">Télécharger les nouveaux puzzles</string>
+    <string name="MainPagePlayClickButton">Jouer à Click Game</string>
+    <string name="MainPagePlayDragButton">Jouer à Drag Game</string>
+    <string name="MainPageSelectPuzzlePage">Sélectionnez Puzzle</string>
+    <string name="NewHighScore">Nouveau record!</string>
+    <string name="NoPuzzlesFoundText">Pas de puzzles trouvés.</string>
+    <string name="PuzzleComplete">Puzzle Achevée</string>
+    <string name="Surrender">Abandonne?</string>
+    <string name="WellDone">Bien joué!</string>
+    <string name="MainMenu">Menu Principal</string>
+    <string name="HighScorePreString">Score Élevé:</string>
+    <string name="NotCompleteStr">Pas Achevé</string>
+    <string name="ConnetionFailureDownloading">Échec de Connexion</string>
+    <string name="NoNewPuzzlesFound">Pas de nouveaux puzzles trouvés</string>
+    <string name="NoPuzzlesFound">Pas de puzzles trouvés</string>
+    <string name="PleaseWait">S\'il vous plaît, attendez . . .</string>
+    <string name="DownloadPuzzle">Téléchargement de Puzzle. . .</string>
+    <string-array name="PuzzleFilters">
+        <item>Aucun</item>
+        <item>Facile</item>
+        <item>Moyen</item>
+        <item>Difficile</item>
+    </string-array>
+    <string name="SelectedPuzzle">Puzzle Sélectionné:</string>
+</resources>

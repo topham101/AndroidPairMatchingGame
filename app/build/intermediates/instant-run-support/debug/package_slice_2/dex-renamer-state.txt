@@ -1,0 +1,4 @@
+#Thu Mar 30 12:44:17 BST 2017
+base.0=D\:\\University Coursework\\3rd Year\\Mobile Devices - 08027\\SVN Files\\ACW\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+renamed.0=classes.dex
+file.0=D\:\\University Coursework\\3rd Year\\Mobile Devices - 08027\\SVN Files\\ACW\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Meme Lord\'s Puzzle Party</string>
+    <string name="FilterTitle">Filter Puzzles:</string>
+    <string name="GoToDownloadPageButton">Download new puzzles</string>
+    <string name="NoPuzzlesFoundText">No Puzzles Found.</string>
+    <string-array name="PuzzleFilters">
+        <item>None</item>
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+    <string name="DownloadPageDownloading">Downloading . . .</string>
+    <string name="DownloadPageDownloaded">Click a puzzle to download:</string>
+    <string name="DownloadPageEmpty">No Puzzles Found.</string>
+    <string name="DownloadPageNoConnection">Internet Connection Failed</string>
+    <string name="MainPageSelectPuzzlePage">Select Puzzle</string>
+    <string name="MainPagePlayClickButton">Play Click Mode</string>
+    <string name="MainPagePlayDragButton">Play Drag Mode</string>
+    <string name="PlayPuzzleScoreDefault" translatable="false">Score: 0</string>
+    <string name="MainMenu">Main Menu</string>
+    <string name="WellDone">Well Done!</string>
+    <string name="NewHighScore">New High Score!</string>
+    <string name="NewScore" translatable="false">Score: %1$d points.</string>
+    <string name="PuzzleComplete">Puzzle Complete</string>
+    <string name="Surrender">Give up?</string>
+    <string name="HighScorePreString">High Score:</string>
+    <string name="NotCompleteStr">Not Completed</string>
+    <string name="ConnetionFailureDownloading">Connection Failure</string>
+    <string name="NoNewPuzzlesFound">No New Puzzles Found</string>
+    <string name="DownloadPuzzle">Downloading Puzzle . . .</string>
+    <string name="PleaseWait">Please wait . . .</string>
+    <string name="NoPuzzlesFound">No Puzzles Found</string>
+    <string name="SelectedPuzzle">Seleted Puzzle:</string>
+</resources>
